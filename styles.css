@@ -1,0 +1,75 @@
+
+body{
+    margin-left: 40%;
+    margin-top: 5%;
+    background-color: #f1c7ed;
+    font-size: large;
+    color: #473452;
+
+
+}
+.tasks{
+    display: flex;
+    gap: 50px;
+    margin-top: 5%;
+
+    
+}
+.done{
+    font-size: larger;
+    font-weight: bold;
+}
+.task{
+    font-size: larger;
+    font-weight: bold;
+}
+.addTask{
+    background-color:#b465bf;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin-top: 5%;
+    font-size: large;
+
+
+
+}
+.delete{
+    background-color:#b465bf;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: large;
+
+}
+select {
+    width: 200px;
+    height: 30px;
+    background-color: #b465bf;
+    border: 1px solid #b465bf;
+    font-size: 14px;
+    padding: 5px;
+  }
+  
+  option {
+    background-color: #a284a7;
+    font-size: 14px;
+    padding: 5px;
+  }
+  .check{
+      border: solid 2px #b465bf;
+      border-radius: 5px;
+      padding: 10px 15px;
+  }
+  .todo{
+    border: solid 2px #b465bf;
+    border-radius: 2px;
+    margin-bottom: 2%;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 5%;
+  }

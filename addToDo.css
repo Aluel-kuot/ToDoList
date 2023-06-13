@@ -1,0 +1,58 @@
+
+.form{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+input{
+    padding: 20px 50px;
+    font-size: large;
+    border:solid 2px #b465bf;
+    border-radius: 5px;
+}
+.add{
+    background-color:#b465bf;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin-top: 5%;
+    font-size: large;
+    margin-left: 5%;
+
+
+
+}
+.delete{
+    background-color:#b465bf;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: large;
+
+}
+.back{
+    background-color:#b465bf;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: large;
+}
+.addcomment{
+font-size: x-large;
+font-weight: bolder;
+color: #473452;
+}
+.comment{
+    border: solid 2px #b465bf;
+    border-radius: 5px;
+    padding: 40px 50px;
+}
+.create{
+    color: #473452;
+}
