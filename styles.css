@@ -73,3 +73,26 @@ select {
     padding: 20px 10px;
     margin-top: 5%;
   }
+@media (max-width: 700px) {
+    body {
+      margin-left: 10%;
+      margin-top: 2%;
+    }
+  
+    .tasks {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+    .addTask,
+    .delete {
+      font-size: small;
+      padding: 10px 20px;
+    }
+  
+    .todo {
+      padding: 10px;
+      margin-top: 2%;
+    }
+  }
+  

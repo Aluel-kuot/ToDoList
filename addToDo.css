@@ -56,3 +56,35 @@ color: #473452;
 .create{
     color: #473452;
 }
+@media (max-width: 700px) {
+    .form {
+      margin-left: 20%;
+      margin-top: 3%;
+    }
+  
+    input {
+      padding: 10px;
+      font-size: medium;
+    }
+  
+    .add,
+    .delete,
+    .back {
+      padding: 10px 15px;
+      margin-top: 3%;
+      font-size: medium;
+    }
+  
+    .addcomment {
+      font-size: large;
+    }
+  
+    .comment {
+      padding: 30px;
+    }
+  
+    .create {
+      font-size: medium;
+    }
+  }
+  

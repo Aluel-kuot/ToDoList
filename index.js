@@ -19,7 +19,7 @@ const getToDo = async () => {
     let userId = document.createElement('p');
 
     id.innerHTML=item.id;
-    todo.innerHTML = item.title; 
+    todo.innerHTML = item.todo; 
     completed.innerHTML = item.completed;
     userId.innerHTML = item.id; 
 
